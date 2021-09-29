@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D3spina
 - 👀 I’m interested in a lot of stuff
-- 🌱 I’m currently learning basic JS
-- 💞️ I’m looking to collaborate on ?
+- 🌱 I’m currently learning basic JS, HTML, Python ...
+- 💞️ I’m looking to collaborate on ... ask!
 - 📫 How to reach me D3spina#8685
 
 <!---
