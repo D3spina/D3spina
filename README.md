@@ -9,7 +9,7 @@ You can found me in France, Meurthe et Moselle.
 
 Just Now ? Writing this ^^
 
-Working some python stuff
+Working on some python stuff
 
 # What's next
 
