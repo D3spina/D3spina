@@ -1,21 +1,28 @@
-# Who am I
+# Welcome !
 
-Hej !
+## About me
 
-My name is Guillaume G and i'm 29. Actually i'm  an agricultural insurance salesperson and I a new hobby developper noob.
-You can found me in France, Meurthe et Moselle.
+Hello, I'm Guillaume! After a successful 10-year career in insurance sales, I've embarked on a new journey in the tech world, specializing in IT project management and cybersecurity. I'm currently enrolled in the MSc pro program at Epitech, where I'm honing my skills in cybersecurity and network management.
 
-# What I do
+I'm passionate about using technology to solve complex problems and protect digital assets from emerging cyber threats. This GitHub page serves as a portfolio of my projects, both academic and personal, showcasing my journey through the world of tech.
 
-Just Now ? Writing this ^^
+## My projects
 
-Working on some python stuff
+Here you'll find a variety of projects ranging from small scripts aimed at automating mundane tasks to larger, more complex systems designed to enhance cybersecurity measures. My projects are a reflection of my learning journey and my commitment to developing practical, impactful tech solutions.
 
-# What's next
+- Work in progress
 
-Continue to learn.
-Be able to work on Open Source project 
+## Competencies
 
-# Finaly 
+- **Languages**: Python, Rust
+- **Tools & Technologies**: Docker, Git, Linux, Wireshark, MacOs, Windows
+- **Soft Skills**: Strong communication, project management, problem-solving, adaptability
 
-Thanks for reading.
+## Contact me
+
+I'm always looking to collaborate on interesting projects or discuss potential job opportunities. Feel free to reach out to me!
+
+- **Email**: [guillaume.gangloff@icloud.com]
+- **LinkedIn**: [Votre LinkedIn]([https://www.linkedin.com/in/votreprofil](https://www.linkedin.com/in/guillaume-gangloff-305a84135/))
+
+Thank you for visiting my profile. Let's connect and create something amazing together!
