@@ -22,7 +22,7 @@ Here you'll find a variety of projects ranging from small scripts aimed at autom
 
 I'm always looking to collaborate on interesting projects or discuss potential job opportunities. Feel free to reach out to me!
 
-- **Email**: [guillaume.gangloff@icloud.com]
-- **LinkedIn**: [Votre LinkedIn]([https://www.linkedin.com/in/votreprofil](https://www.linkedin.com/in/guillaume-gangloff-305a84135/))
+- **Email**: guillaume.gangloff@icloud.com
+- **LinkedIn**([https://www.linkedin.com/in/votreprofil](https://www.linkedin.com/in/guillaume-gangloff-305a84135/))
 
 Thank you for visiting my profile. Let's connect and create something amazing together!
