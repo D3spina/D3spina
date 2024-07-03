@@ -12,6 +12,7 @@ Here you'll find a variety of projects ranging from small scripts aimed at autom
 
 - [Basic-Linux-Privilege-Escalation-Audit](https://github.com/D3spina/Basic-Linux-Privilege-Escalation-Audit)
 - [Rust software](https://github.com/D3spina/Epitech---T-WEB-800)
+- [Google Cybersecurity Professional Certificate](https://github.com/D3spina/Google-Cybersecurity-Professional-Certificate/tree/main)
 
 ## Competencies
 
