@@ -10,7 +10,7 @@ I'm passionate about using technology to solve complex problems and protect digi
 
 Here you'll find a variety of projects ranging from small scripts aimed at automating mundane tasks to larger, more complex systems designed to enhance cybersecurity measures. My projects are a reflection of my learning journey and my commitment to developing practical, impactful tech solutions.
 
-## Projects from Epitech
+### Projects from Epitech
 
 - [Rust software](https://github.com/D3spina/Epitech---T-WEB-800)  
   Creation of a cross-platform software in Rust to assist users in planning a road trip.
@@ -29,7 +29,7 @@ Here you'll find a variety of projects ranging from small scripts aimed at autom
 
 ---
 
-## Personal Projects
+### Personal Projects
 
 - [Basic-Linux-Privilege-Escalation-Audit](https://github.com/D3spina/Basic-Linux-Privilege-Escalation-Audit)  
   Script to check whether the system configuration allows privilege escalation.
