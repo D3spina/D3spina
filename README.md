@@ -10,14 +10,47 @@ I'm passionate about using technology to solve complex problems and protect digi
 
 Here you'll find a variety of projects ranging from small scripts aimed at automating mundane tasks to larger, more complex systems designed to enhance cybersecurity measures. My projects are a reflection of my learning journey and my commitment to developing practical, impactful tech solutions.
 
-- [Basic-Linux-Privilege-Escalation-Audit](https://github.com/D3spina/Basic-Linux-Privilege-Escalation-Audit)
-- [Rust software](https://github.com/D3spina/Epitech---T-WEB-800)
-- [Google Cybersecurity Professional Certificate](https://github.com/D3spina/Google-Cybersecurity-Professional-Certificate/tree/main)
+## Projects from Epitech
+
+- [Rust software](https://github.com/D3spina/Epitech---T-WEB-800)  
+  Creation of a cross-platform software in Rust to assist users in planning a road trip.
+
+- [Malware]()  
+  Development of a malware for Microsoft Windows (Project in progress).
+
+- [Azure](https://github.com/GuillaumeGANGLOFF/T-CLO-901-NCY_2)  
+  Use of Terraform, Ansible, and Shell to automate IAAS and PAAS deployments on Azure (Project in progress).
+
+- [Pentest]()  
+  Conducting a security audit.
+
+- [EcoTecknik](https://github.com/StarCobra/T-ESP-800-EcoTeckNik)  
+  The EcoTeckNik project aims to transform electronic waste management by offering an innovative and interactive platform.
+
+---
+
+## Personal Projects
+
+- [Basic-Linux-Privilege-Escalation-Audit](https://github.com/D3spina/Basic-Linux-Privilege-Escalation-Audit)  
+  Script to check whether the system configuration allows privilege escalation.
+
+- [Google Cybersecurity Professional Certificate](https://github.com/D3spina/Google-Cybersecurity-Professional-Certificate/tree/main)  
+  Work completed during the certification process (Python, SQL, Splunk, etc.).
+
+- [Fantasyballers.fr](https://github.com/GuillaumeGANGLOFF/fantasyballers-leagues-page)  
+  Creation of a [website](https://fantasyballers.fr) for the Fantasyballers community to track all leagues.
+
+- [Fantasyballers Dashboard](https://github.com/GuillaumeGANGLOFF/FBDashboard)  
+  [Dashboard](https://lookerstudio.google.com/s/q0XgiiJETzU) displaying data for selected leagues in the Fantasyballers community.
+
+- [ProbeSSIDetector](https://github.com/GuillaumeGANGLOFF/probeSSIDetector)  
+  Based on the findings in [Probing for Password](https://svs.informatik.uni-hamburg.de/publications/2022/2022-06-08_Probing_for_Passwords.pdf), this script analyzes detected SSIDs from sniffed probe requests.
+
 
 ## Competencies
 
 - **Languages**: Python, Rust, SQL
-- **Tools & Technologies**: Docker, Git, Linux, Wireshark, MacOs, Windows
+- **Tools & Technologies**: Docker, Git, Wireshark, Linux, MacOs, Windows
 - **Soft Skills**: Strong communication, project management, problem-solving, adaptability
 
 ## Contact me
