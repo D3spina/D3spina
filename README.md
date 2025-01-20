@@ -49,7 +49,7 @@ Here you'll find a variety of projects ranging from small scripts aimed at autom
 
 ## Competencies
 
-- **Languages**: Python, Rust, SQL
+- **Languages**: Python, Rust, SQL, Nim
 - **Tools & Technologies**: Docker, Git, Wireshark, Linux, MacOs, Windows
 - **Soft Skills**: Strong communication, project management, problem-solving, adaptability
 
