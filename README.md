@@ -56,7 +56,7 @@ Here you'll find a variety of projects ranging from small scripts aimed at autom
 
 I'm always looking to collaborate on interesting projects or discuss potential job opportunities. Feel free to reach out to me!
 
-- [**Email**:](guillaume.gangloff@icloud.com)
+- **Email**: guillaume.gangloff@icloud.com
 - [**LinkedIn**](https://www.linkedin.com/in/guillaume-gangloff)
 
 Thank you for visiting my portfolio. Let's connect and create something amazing together!
