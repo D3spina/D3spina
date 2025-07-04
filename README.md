@@ -53,7 +53,7 @@ Here you'll find a variety of projects ranging from small scripts aimed at autom
  Base on the FinalRecon.py project, I created my own solution with Nim (Project in progress).
 
 - [LorcanaArchives](https://github.com/D3spina/LorcanaArchives)
-  Bot for the Lorcana FR Community Discord (Project in progress).
+  Bot for the Lorcana FR Community Discord.
 
 ## Contact me
 
