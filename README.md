@@ -31,6 +31,9 @@ Here you'll find a variety of projects ranging from small scripts aimed at autom
 
 ### Personal Projects
 
+- RedHive (The project is not public at this time)
+  An infrastructure monitoring system that collects software and system data from endpoints, identifies vulnerabilities, and automatically attempts non-destructive exploitation to       confirm them. The results, including vulnerability details and confirmed exploits, are visualized in real-time through Grafana dashboards using Elasticsearch as the backend.
+  
 - [Basic-Linux-Privilege-Escalation-Audit](https://github.com/D3spina/Basic-Linux-Privilege-Escalation-Audit)  
   Script to check whether the system configuration allows privilege escalation.
 
